@@ -1,0 +1,31 @@
+SSH Port Enabled:
+
+Don’t expose the SSH port to the world.
+Don’t allow the root user to use an SSH terminal.
+Force all users to log in with an SSH key pair, and then deactivate password authentication.
+
+
+
+Serverless Security
+I think its better to talk about what do we use here in this company
+
+
+Ensure no security groups allow ingress from 0.0.0.0/0 to port 22 (AWS)
+
+
+https://sysdig.com/blog/aws-secure-ssh-ec2-threats/?utm_id=FAUN_Zeno331_Link_title
+https://www.chrisfarris.com/post/philosphy-of-prevention/?utm_id=FAUN_Zeno331_Link_title
+
+https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/?utm_id=FAUN_Zeno331_Link_title
+
+
+Two factor authentication what it means?
+
+
+
+why it is important:
+
+Online presence has been increased
+We went remote
+
+93% penetration: https://www.ptsecurity.com/ww-en/about/news/positive-technologies-cybercriminals-can-penetrate-93-of-local-company-networks-and-trigger-71-of-events-deemed-unacceptable-for-their-businesses/
